@@ -4,7 +4,7 @@
 </head>
 
 <body> <b>^</b>
-    <div style="
+    
     <div style="
     width:90%;
     max-width:1100px;
