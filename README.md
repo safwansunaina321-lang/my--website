@@ -3,7 +3,8 @@
     <title><b>ROBOTICS TUTORIAL</b></title>
 </head>
 
-<body><div class="slider">
+<body>
+    <div class="slider">
     <div class="slide">
         <h1>WELCOME TO ROBOTICS</h1>
         <p>Learn • Build • Innovate</p>
