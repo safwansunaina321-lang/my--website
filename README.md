@@ -98,65 +98,6 @@
 
     <div id="robotSlides">
 
-        <div class="robotSlide">
-            <small>01 • ROBOTICS ACADEMY</small>
-            <h1>🤖 ROBOTICS FOR KIDS</h1>
-            <p>Learn • Build • Create</p>
-        </div>
-
-        <div class="robotSlide">
-            <small>02 • ROBOTIC MOVEMENT</small>
-            <h1>🦾 SERVO MOTORS</h1>
-            <p>Discover how robots create controlled movement.</p>
-        </div>
-
-        <div class="robotSlide">
-            <small>03 • SMART TECHNOLOGY</small>
-            <h1>📡 SENSORS</h1>
-            <p>Learn how robots detect objects and distance.</p>
-        </div>
-
-        <div class="robotSlide">
-            <small>04 • START BUILDING</small>
-            <h1>⚡ ARDUINO PROJECTS</h1>
-            <p>Turn your ideas into real robotic projects.</p>
-        </div>
-
-    </div>
-
-    <script>
-        let slide = 0;
-        const slides = document.querySelectorAll(".robotSlide");
-
-        function nextSlide() {
-            slides.forEach(s => {
-                s.style.display = "none";
-            });
-
-            slides[slide].style.display = "flex";
-
-            slide++;
-
-            if (slide >= slides.length) {
-                slide = 0;
-            }
-        }
-
-        slides.forEach(s => {
-            s.style.display = "none";
-            s.style.height = "100%";
-            s.style.padding = "40px";
-            s.style.boxSizing = "border-box";
-            s.style.flexDirection = "column";
-            s.style.justifyContent = "center";
-        });
-
-        nextSlide();
-        setInterval(nextSlide, 3000);
-    </script>
-
-</div>
-    <div class="robotics-kids">
 
     <header>
         <p>WELCOME TO MY WORLD</p>
