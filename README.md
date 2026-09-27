@@ -4,6 +4,81 @@
 </head>
 
 <body> <b>^</b>
+    <div style="
+    width:90%;
+    max-width:1100px;
+    height:350px;
+    margin:40px auto;
+    position:relative;
+    overflow:hidden;
+    border-radius:25px;
+    background:linear-gradient(135deg,#020617,#062b45,#00111f);
+    border:1px solid #00eaff;
+    box-shadow:0 0 30px #00eaff55;
+    color:white;
+    font-family:Arial,sans-serif;
+">
+
+    <div id="robotSlides">
+
+        <div class="robotSlide">
+            <small>01 • ROBOTICS ACADEMY</small>
+            <h1>🤖 ROBOTICS FOR KIDS</h1>
+            <p>Learn • Build • Create</p>
+        </div>
+
+        <div class="robotSlide">
+            <small>02 • ROBOTIC MOVEMENT</small>
+            <h1>🦾 SERVO MOTORS</h1>
+            <p>Discover how robots create controlled movement.</p>
+        </div>
+
+        <div class="robotSlide">
+            <small>03 • SMART TECHNOLOGY</small>
+            <h1>📡 SENSORS</h1>
+            <p>Learn how robots detect objects and distance.</p>
+        </div>
+
+        <div class="robotSlide">
+            <small>04 • START BUILDING</small>
+            <h1>⚡ ARDUINO PROJECTS</h1>
+            <p>Turn your ideas into real robotic projects.</p>
+        </div>
+
+    </div>
+
+    <script>
+        let slide = 0;
+        const slides = document.querySelectorAll(".robotSlide");
+
+        function nextSlide() {
+            slides.forEach(s => {
+                s.style.display = "none";
+            });
+
+            slides[slide].style.display = "flex";
+
+            slide++;
+
+            if (slide >= slides.length) {
+                slide = 0;
+            }
+        }
+
+        slides.forEach(s => {
+            s.style.display = "none";
+            s.style.height = "100%";
+            s.style.padding = "40px";
+            s.style.boxSizing = "border-box";
+            s.style.flexDirection = "column";
+            s.style.justifyContent = "center";
+        });
+
+        nextSlide();
+        setInterval(nextSlide, 3000);
+    </script>
+
+</div>
     <div class="robotics-kids">
 
     <header>
