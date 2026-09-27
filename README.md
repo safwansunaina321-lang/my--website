@@ -4,43 +4,6 @@
 </head>
 
 <body>
-    body {
-    margin: 0;
-    min-height: 100vh;
-    font-family: Arial, sans-serif;
-    color: white;
-
-    background-color: #020617;
-
-    background-image:
-        linear-gradient(rgba(0, 255, 255, 0.08) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0, 255, 255, 0.08) 1px, transparent 1px),
-        radial-gradient(circle at 50% 30%, rgba(0, 180, 255, 0.25), transparent 40%);
-
-    background-size: 45px 45px, 45px 45px, 100% 100%;
-}
-body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-
-    background:
-        radial-gradient(circle at 20% 20%, rgba(0, 255, 255, 0.12), transparent 25%),
-        radial-gradient(circle at 80% 70%, rgba(0, 100, 255, 0.12), transparent 25%);
-
-    animation: aura 5s infinite alternate;
-}
-
-@keyframes aura {
-    from {
-        opacity: 0.5;
-    }
-
-    to {
-        opacity: 1;
-    }
-}
     <div class="robotics-kids">
 
     <header>
