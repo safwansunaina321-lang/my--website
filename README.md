@@ -12,19 +12,4 @@ Here, you can explore how robots work, learn about sensors and motors, understan
 
 My Robotics World includes:
 
-- 🤖 Robotics Basics
-- ⚙️ Motors & Components
-- 📡 Sensors
-- 🔌 Arduino & Microcontrollers
-- 💻 Programming
-- 🦾 Robotic Arms
-- 🚗 Robot Cars
-- 🛰️ Exploration Robots
-- 🧠 AI & Smart Robots
-- 🔥 Real-World Robotics Projects
-
-🌟 Let's Build the Future
-
-Every great robot starts with a simple idea.
-
-Learn → Create → Test → Improve → Innovate
+- 
