@@ -3,7 +3,129 @@
     <title><b>ROBOTICS TUTORIAL</b></title>
 </head>
 
-<body>
+<body><div class="robotics-kids">
+
+    <header>
+        <p>WELCOME TO MY WORLD</p>
+        <h1>🤖 ROBOTICS FOR KIDS</h1>
+        <p>Learn • Build • Experiment • Create</p>
+    </header>
+
+    <section>
+        <h2>🚀 Start Your Robotics Journey</h2>
+        <p>
+            Learn robotics step by step through simple projects.
+            Discover how robots sense, move, react, and interact
+            with the world around them.
+        </p>
+    </section>
+
+    <section>
+        <h2>⚙️ Learn the Basics</h2>
+
+        <div class="card">
+            <h3>🔌 Arduino</h3>
+            <p>
+                Learn how a microcontroller can control motors,
+                sensors, LEDs, buzzers, and other components.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🦾 Servo Motor</h3>
+            <p>
+                Learn how servo motors create controlled movement
+                and how to connect them to a microcontroller.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>📡 Ultrasonic Sensor</h3>
+            <p>
+                Discover how robots can measure distance and
+                detect objects using ultrasonic waves.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>💡 LED</h3>
+            <p>
+                Start with simple LED circuits and learn how
+                programs can control electronic components.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🔊 Buzzer</h3>
+            <p>
+                Learn how a buzzer can provide sound alerts
+                when a robot detects an event.
+            </p>
+        </div>
+    </section>
+
+    <section>
+        <h2>🦾 Servo Motor Connection</h2>
+
+        <p>A typical hobby servo has three connections:</p>
+
+        <div class="connection">
+            <p>🔴 <b>VCC</b> → Power</p>
+            <p>⚫ <b>GND</b> → Ground</p>
+            <p>🟡 <b>SIGNAL</b> → Digital control pin</p>
+        </div>
+
+        <p>
+            The signal wire is controlled by the microcontroller,
+            allowing you to move the servo to different angles.
+        </p>
+    </section>
+
+    <section>
+        <h2>🔬 Beginner Projects</h2>
+
+        <div class="card">
+            <h3>1️⃣ Automatic Object Detector</h3>
+            <p>Ultrasonic sensor + Arduino + buzzer</p>
+        </div>
+
+        <div class="card">
+            <h3>2️⃣ Smart Servo Scanner</h3>
+            <p>Servo motor + ultrasonic sensor</p>
+        </div>
+
+        <div class="card">
+            <h3>3️⃣ Automatic Light</h3>
+            <p>Sensor + Arduino + LED</p>
+        </div>
+
+        <div class="card">
+            <h3>4️⃣ Mini Robot Car</h3>
+            <p>Arduino + motors + motor driver + sensors</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>🧠 What You Will Learn</h2>
+
+        <p>✓ Electronics basics</p>
+        <p>✓ Arduino programming</p>
+        <p>✓ Sensors</p>
+        <p>✓ Motors and movement</p>
+        <p>✓ Robotics programming</p>
+        <p>✓ Problem solving</p>
+        <p>✓ Building your own projects</p>
+    </section>
+
+    <section>
+        <h2>🌟 BUILD YOUR FIRST ROBOT</h2>
+        <p>
+            Start small, experiment safely, learn from mistakes,
+            and turn your ideas into real machines.
+        </p>
+    </section>
+
+</div>
 <!-- HERO -->
 <section class="hero">
     <p>WELCOME TO THE FUTURE</p>
