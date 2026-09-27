@@ -11,5 +11,7 @@ Here, you can explore how robots work, learn about sensors and motors, understan
 🚀 Explore. Build. Program. Innovate.
 
 My Robotics World includes:
-
+<section class="robotics-poster">
+    <img src="robotics-poster.png" alt="Robotics Poster">
+</section>
 - [My Website](https://github.com/safwansunaina321-lang/my-website/tree/main)
