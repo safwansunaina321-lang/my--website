@@ -4,6 +4,109 @@
 </head>
 
 <body> <b>^</b>
+    <section style="
+    padding:40px 20px;
+    max-width:1100px;
+    margin:auto;
+    font-family:Arial,sans-serif;
+">
+
+    <h1 style="text-align:center; font-size:40px;">
+        🤖 ROBOTICS BASICS
+    </h1>
+
+    <p style="text-align:center; font-size:18px;">
+        Start your journey into the amazing world of robotics!
+    </p>
+
+    <div style="
+        display:grid;
+        grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+        gap:20px;
+        margin-top:40px;
+    ">
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>🤖 What is Robotics?</h2>
+            <p>
+                Robotics is the technology of designing, building,
+                and programming robots to perform useful tasks.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>🧠 Robot Brain</h2>
+            <p>
+                A controller such as Arduino can act as the brain
+                of a robot and control its components.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>📡 Sensors</h2>
+            <p>
+                Sensors help robots detect things around them,
+                such as distance, light, temperature, and objects.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>🦾 Motors</h2>
+            <p>
+                Motors help robots move. Servo and DC motors
+                are common examples.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>⚡ Arduino</h2>
+            <p>
+                Arduino is a beginner-friendly platform for
+                learning electronics and robotics programming.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>💡 Electronics</h2>
+            <p>
+                Learn about LEDs, resistors, buzzers, switches,
+                breadboards, batteries, and wires.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>💻 Programming</h2>
+            <p>
+                Programming gives robots instructions using
+                variables, conditions, loops, and functions.
+            </p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff15; border-radius:20px;">
+            <h2>🚀 Projects</h2>
+            <p>
+                Build beginner projects such as distance
+                detectors, automatic lights, and servo systems.
+            </p>
+        </div>
+
+    </div>
+
+    <div style="
+        margin-top:50px;
+        padding:30px;
+        text-align:center;
+        border-radius:25px;
+        background:linear-gradient(135deg,#7b2cff55,#00eaff33);
+    ">
+        <h2>🌟 YOUR ROBOTICS JOURNEY</h2>
+        <p>
+            Electronics → Arduino → Sensors → Motors →
+            Programming → Projects → AI Robotics
+        </p>
+    </div>
+
+</section>
     <div style="
     width:90%;
     max-width:1100px;
