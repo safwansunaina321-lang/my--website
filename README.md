@@ -4,20 +4,6 @@
 </head>
 
 <body> <b>^</b>
-body {
-    margin: 0;
-    min-height: 100vh;
-    color: white;
-
-    background:
-        radial-gradient(circle at 10% 20%, #ff00cc 0%, transparent 25%),
-        radial-gradient(circle at 90% 15%, #00eaff 0%, transparent 25%),
-        radial-gradient(circle at 50% 90%, #7b2cff 0%, transparent 30%),
-        linear-gradient(135deg, #050014, #00152b, #12002b);
-
-    background-attachment: fixed;
-}
-    
     <div style="
     width:90%;
     max-width:1100px;
