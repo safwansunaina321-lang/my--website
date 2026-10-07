@@ -280,6 +280,30 @@ Learn → Create → Test → Improve → Innovate</p>
     <section style="
     text-align:center;
     padding:40px;
+    <div style="
+    text-align:center;
+    margin:40px 0;
+">
+
+    <h2>🔌 Explore Breadboards</h2>
+
+    <p>Learn how a breadboard works and how components connect.</p>
+
+    <a href="breadboard.html" style="
+        display:inline-block;
+        padding:16px 35px;
+        border-radius:50px;
+        background:linear-gradient(90deg,#00eaff,#7b2cff,#ff00cc);
+        color:white;
+        text-decoration:none;
+        font-size:18px;
+        font-weight:bold;
+        box-shadow:0 0 25px #00eaff88;
+    ">
+        🚀 START LEARNING
+    </a>
+
+</div>
 
 
 </body>
