@@ -305,7 +305,9 @@ Learn → Create → Test → Improve → Innovate</p>
 
 </div>
 
-[My Website](https://safwansunaina321-lang.github.io/my--website/)
+<a href="https://safwansunaina321-lang.github.io/my--website/" target="_blank">
+    My Website
+</a>
 
 </body>
 </html>
