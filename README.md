@@ -280,30 +280,8 @@ Learn → Create → Test → Improve → Innovate</p>
     <section style="
     text-align:center;
     padding:40px;
-">
 
-    <h2>🔌 Learn About Breadboards</h2>
 
-    <p>
-        Want to learn how a breadboard works?
-    </p>
-
-    <a href="breadboard.html"
-       style="
-       display:inline-block;
-       padding:15px 30px;
-       background:linear-gradient(90deg,#00eaff,#7b2cff);
-       color:white;
-       text-decoration:none;
-       border-radius:30px;
-       font-weight:bold;
-       ">
-       CLICK HERE 🚀
-    </a>
-
-</section>
-
-</section>
 </body>
 </html>
 
