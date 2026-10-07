@@ -216,6 +216,69 @@ My Robotics World includes:
 Every great robot starts with a simple idea.
 
 Learn → Create → Test → Improve → Innovate</p>
+<section style="
+    padding:50px 20px;
+    max-width:1000px;
+    margin:auto;
+    font-family:Arial,sans-serif;
+">
+
+    <p style="color:#00eaff; letter-spacing:3px;">
+        VIRTUAL ROBOTICS LAB
+    </p>
+
+    <h1>🧪 TINKERCAD</h1>
+
+    <p style="font-size:18px; line-height:1.7;">
+        Tinkercad is a beginner-friendly online tool for learning
+        electronics, Arduino, circuits, and 3D design.
+        You can create and test projects virtually before building
+        them with real components.
+    </p>
+
+    <div style="
+        display:grid;
+        grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+        gap:20px;
+        margin-top:30px;
+    ">
+
+        <div style="padding:25px; background:#ffffff12; border-radius:20px;">
+            <h2>💡 Circuits</h2>
+            <p>Build and experiment with electronic circuits virtually.</p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff12; border-radius:20px;">
+            <h2>⚡ Arduino</h2>
+            <p>Practice Arduino programming and test your ideas.</p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff12; border-radius:20px;">
+            <h2>🦾 Motors</h2>
+            <p>Experiment with components such as servo motors.</p>
+        </div>
+
+        <div style="padding:25px; background:#ffffff12; border-radius:20px;">
+            <h2>🧱 3D Design</h2>
+            <p>Create simple 3D models and explore robot designs.</p>
+        </div>
+
+    </div>
+
+    <div style="
+        margin-top:35px;
+        padding:25px;
+        border-radius:20px;
+        background:linear-gradient(135deg,#00eaff22,#7b2cff22);
+    ">
+        <h2>🚀 LEARN → SIMULATE → BUILD</h2>
+        <p>
+            Start with a virtual project, understand how it works,
+            and then try building it with real components.
+        </p>
+    </div>
+
+</section>
 </body>
 </html>
 
