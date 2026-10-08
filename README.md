@@ -302,7 +302,7 @@ Learn → Create → Test → Improve → Innovate</p>
     ">
         🚀 START LEARNING
     </a>
-
+</html></body>
 </div>
 
 
@@ -316,5 +316,5 @@ Learn → Create → Test → Improve → Innovate</p>
     My Website
 </a>
 
-</body></html>
+
 
