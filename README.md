@@ -302,7 +302,6 @@ Learn → Create → Test → Improve → Innovate</p>
     ">
         🚀 START LEARNING
     </a>
-</html></body>
 </div>
 
 
@@ -311,7 +310,7 @@ Learn → Create → Test → Improve → Innovate</p>
 
 
 
-
+</html></body>
 <a href="https://safwansunaina321-lang.github.io/my--website/" target="_blank">
     My Website
 </a>
