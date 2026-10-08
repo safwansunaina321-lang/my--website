@@ -300,18 +300,10 @@ Learn → Create → Test → Improve → Innovate</p>
     ">
         🚀 START LEARNING
     </a>
-</div>
+</html>
+</body>
 
 
-
-
-
-
-
-</html></body>
-<a href="https://safwansunaina321-lang.github.io/my--website/" target="_blank">
-    My Website
-</a>
 
 
 
