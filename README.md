@@ -277,12 +277,6 @@ Learn → Create → Test → Improve → Innovate</p>
             and then try building it with real components.
         </p>
     </div>
-    
-    <div style="
-    text-align:center;
-    margin:40px 0;
-
-
     <h2>🔌 Explore Breadboards</h2>
 
     <p>Learn how a breadboard works and how components connect.</p>
@@ -300,10 +294,10 @@ Learn → Create → Test → Improve → Innovate</p>
     ">
         🚀 START LEARNING
     </a>
-</html>
 </body>
-
-
-
+<a href="https://safwansunaina321-lang.github.io/my--website/" target="_blank">
+    My Website
+</a>
+</html>
 
 
