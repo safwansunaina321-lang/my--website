@@ -277,13 +277,11 @@ Learn → Create → Test → Improve → Innovate</p>
             and then try building it with real components.
         </p>
     </div>
-    <section style="
-    text-align:center;
-    padding:40px;
+    
     <div style="
     text-align:center;
     margin:40px 0;
-">
+
 
     <h2>🔌 Explore Breadboards</h2>
 
